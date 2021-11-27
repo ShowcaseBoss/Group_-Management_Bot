@@ -23,5 +23,3 @@ load time, in `__main__`, by looking at attributes. This is how migration, /help
 are based off of. It allows the bot to work fine with the LOAD and NO_LOAD configurations.
 - Keep in mind that some things might clash; eg a regex handler could clash with a command handler - in this case, you 
 should put them in different dispatcher groups.
-
-Might seem complicated, but it'll make sense when you get into it. Feel free to ask me for a hand/advice (in `@M_STER_TECH`)!
