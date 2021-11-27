@@ -1,19 +1,20 @@
 <p align="center">
-  <img src="PANDITHAN/Evil-Inside.jpeg" alt="Evil-Inside Logo">
+ 
 </p>
 <h1 align="center">
-  <b>Evil-Inside</b>
+  <b>Showcase Manager</b>
 </h1>
-
-DEMO BOT - [Evil-Inside](https://telegram.dog/Evil_Inside_robot)
  
 
-Hello i am TELEGRAM GROUP MANAGEMENT BOT MY NAME IS Evil-Inside ⚡ i have both amazing modules
+Hello i am TELEGRAM GROUP MANAGEMENT BOT 
 
-<h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋 𝕄𝔼 𝕆ℕ<img align="center" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Handshake.gif" height="33px" /></h3>
+Press Below Button to Deploy!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShowcaseBoss/Group_Management_V1)
+
+
+
 <p align="center">
-<a href="https://telegram.dog/PANDITHAN_SIR"><img alt="Telegram" src="https://img.shields.io/badge/𝙿𝚁𝙾𝙵𝙸𝙻𝙴-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://telegram.dog/M_STER_TECH"><img alt="Telegram" src="https://img.shields.io/badge/𝙲𝙷𝙰𝙽𝙽𝙴𝙻-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 
@@ -49,9 +50,6 @@ Hello i am TELEGRAM GROUP MANAGEMENT BOT MY NAME IS Evil-Inside ⚡ i have both 
 * Greetings
 * Image Search
 * Locks
-
-# 𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 
-# [CLICK HERE](https://youtu.be/Bz8AUvN5bSo)
 
 # 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐨 𝐇𝐞𝐫𝐨𝐤𝐮
 <p align="center">
@@ -104,13 +102,3 @@ Hello i am TELEGRAM GROUP MANAGEMENT BOT MY NAME IS Evil-Inside ⚡ i have both 
 - `WEBHOOK` : Setting this to ANYTHING will enable webhooks.
 
 - `WHITELIST_USERS` : A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.
-
-# 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
-- [Thanks To Me ](https://github.com/PANDITHAN)
-- Thanks To [Muhammed](https://github.com/PR0FESS0R-99)
-- Thanks To [Lallu](https://github.com/Lallu-lallus) 
-- Thanks To [CLaY995](https://github.com/CLaY9950) 
-- Thanks To [ViruZs](https://github.com/TGExplore) 
-
-
-
